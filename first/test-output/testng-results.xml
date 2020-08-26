@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Successfully selected Services option]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked Mobile Summary card for Mobile Number:0429 796 100]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68693" started-at="2020-08-26T12:30:02Z" finished-at="2020-08-26T12:31:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68693" started-at="2020-08-26T12:30:02Z" finished-at="2020-08-26T12:31:11Z">
+      <class name="first.firstapp">
+        <test-method status="PASS" signature="setup()[pri:0, instance:first.firstapp@4b14c583]" name="setup" is-config="true" duration-ms="12306" started-at="2020-08-26T12:30:02Z" finished-at="2020-08-26T12:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="basicTest2()[pri:0, instance:first.firstapp@4b14c583]" name="basicTest2" duration-ms="54255" started-at="2020-08-26T12:30:14Z" finished-at="2020-08-26T12:31:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully selected Services option]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked Mobile Summary card for Mobile Number:0429 796 100]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- basicTest2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:first.firstapp@4b14c583]" name="teardown" is-config="true" duration-ms="2082" started-at="2020-08-26T12:31:09Z" finished-at="2020-08-26T12:31:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- first.firstapp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
