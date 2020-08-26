@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-26T07:42:45Z" name="Suite" finished-at="2020-08-26T07:45:42Z" duration-ms="177273">
+    <groups>
+    </groups>
+    <test started-at="2020-08-26T07:42:45Z" name="Test1" finished-at="2020-08-26T07:45:42Z" duration-ms="177273">
+      <class name="TestScript.Testcase_flipkart">
+        <test-method is-config="true" signature="driversetup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:12:45Z" name="driversetup" finished-at="2020-08-26T13:12:53Z" duration-ms="8358" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdk_gphone_x86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.flipkart.android]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.flipkart.android.activity.HomeFragmentHolderActivity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method signature="Homepage_cartnavigate_TC()[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:12:53Z" name="Homepage_cartnavigate_TC" finished-at="2020-08-26T13:13:04Z" duration-ms="10355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage_cartnavigate_TC -->
+        <test-method is-config="true" signature="resultflow_tesrdown(org.testng.ITestResult)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:04Z" name="resultflow_tesrdown" finished-at="2020-08-26T13:13:05Z" duration-ms="1087" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Homepage_cartnavigate_TC status=SUCCESS method=Testcase_flipkart.Homepage_cartnavigate_TC()[pri:0, instance:TestScript.Testcase_flipkart@543295b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultflow_tesrdown -->
+        <test-method is-config="true" signature="driversetup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:05Z" name="driversetup" finished-at="2020-08-26T13:13:12Z" duration-ms="7415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdk_gphone_x86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.flipkart.android]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.flipkart.android.activity.HomeFragmentHolderActivity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method signature="Product_search_TC()[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:12Z" name="Product_search_TC" finished-at="2020-08-26T13:13:33Z" duration-ms="20925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_search_TC -->
+        <test-method is-config="true" signature="resultflow_tesrdown(org.testng.ITestResult)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:33Z" name="resultflow_tesrdown" finished-at="2020-08-26T13:13:34Z" duration-ms="1086" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Product_search_TC status=SUCCESS method=Testcase_flipkart.Product_search_TC()[pri:0, instance:TestScript.Testcase_flipkart@543295b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultflow_tesrdown -->
+        <test-method is-config="true" signature="driversetup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:34Z" name="driversetup" finished-at="2020-08-26T13:13:42Z" duration-ms="7511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdk_gphone_x86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.flipkart.android]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.flipkart.android.activity.HomeFragmentHolderActivity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method signature="login_Negative_TC()[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:42Z" name="login_Negative_TC" finished-at="2020-08-26T13:13:58Z" duration-ms="15966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Negative_TC -->
+        <test-method is-config="true" signature="resultflow_tesrdown(org.testng.ITestResult)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:58Z" name="resultflow_tesrdown" finished-at="2020-08-26T13:13:59Z" duration-ms="981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_Negative_TC status=SUCCESS method=Testcase_flipkart.login_Negative_TC()[pri:0, instance:TestScript.Testcase_flipkart@543295b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultflow_tesrdown -->
+        <test-method is-config="true" signature="driversetup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:13:59Z" name="driversetup" finished-at="2020-08-26T13:14:06Z" duration-ms="7413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdk_gphone_x86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.flipkart.android]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.flipkart.android.activity.HomeFragmentHolderActivity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method signature="login_skip_Tc()[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:14:06Z" name="login_skip_Tc" finished-at="2020-08-26T13:14:19Z" duration-ms="13311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_skip_Tc -->
+        <test-method is-config="true" signature="resultflow_tesrdown(org.testng.ITestResult)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:14:19Z" name="resultflow_tesrdown" finished-at="2020-08-26T13:14:21Z" duration-ms="1513" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_skip_Tc status=SUCCESS method=Testcase_flipkart.login_skip_Tc()[pri:0, instance:TestScript.Testcase_flipkart@543295b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultflow_tesrdown -->
+        <test-method is-config="true" signature="driversetup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:14:21Z" name="driversetup" finished-at="2020-08-26T13:14:29Z" duration-ms="7862" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdk_gphone_x86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.flipkart.android]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.flipkart.android.activity.HomeFragmentHolderActivity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method signature="login_success_Tc()[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:14:29Z" name="login_success_Tc" finished-at="2020-08-26T13:14:48Z" duration-ms="18861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_success_Tc -->
+        <test-method is-config="true" signature="resultflow_tesrdown(org.testng.ITestResult)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:14:48Z" name="resultflow_tesrdown" finished-at="2020-08-26T13:14:49Z" duration-ms="1180" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_success_Tc status=SUCCESS method=Testcase_flipkart.login_success_Tc()[pri:0, instance:TestScript.Testcase_flipkart@543295b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultflow_tesrdown -->
+        <test-method is-config="true" signature="driversetup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:14:49Z" name="driversetup" finished-at="2020-08-26T13:14:56Z" duration-ms="7496" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdk_gphone_x86]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.flipkart.android]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[com.flipkart.android.activity.HomeFragmentHolderActivity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method signature="order_product()[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:14:56Z" name="order_product" finished-at="2020-08-26T13:15:40Z" duration-ms="43968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_product -->
+        <test-method is-config="true" signature="resultflow_tesrdown(org.testng.ITestResult)[pri:0, instance:TestScript.Testcase_flipkart@543295b0]" started-at="2020-08-26T13:15:40Z" name="resultflow_tesrdown" finished-at="2020-08-26T13:15:42Z" duration-ms="1965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=order_product status=SUCCESS method=Testcase_flipkart.order_product()[pri:0, instance:TestScript.Testcase_flipkart@543295b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultflow_tesrdown -->
+      </class> <!-- TestScript.Testcase_flipkart -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

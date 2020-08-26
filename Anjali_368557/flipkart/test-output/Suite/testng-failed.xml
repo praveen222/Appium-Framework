@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="appackage" value="com.flipkart.android"/>
+  <parameter name="appactivity" value="com.flipkart.android.activity.HomeFragmentHolderActivity"/>
+  <parameter name="platformversion" value="10"/>
+  <parameter name="deviceName" value="sdk_gphone_x86"/>
+  <parameter name="platformname" value="Android"/>
+  <test name="Test1(failed)">
+    <parameter name="appackage" value="com.flipkart.android"/>
+    <parameter name="appactivity" value="com.flipkart.android.activity.HomeFragmentHolderActivity"/>
+    <parameter name="platformversion" value="10"/>
+    <parameter name="deviceName" value="sdk_gphone_x86"/>
+    <parameter name="platformname" value="Android"/>
+    <classes>
+      <class name="TestScript.Testcase_flipkart">
+        <methods>
+          <include name="driversetup"/>
+          <include name="order_product"/>
+          <include name="resultflow_tesrdown"/>
+        </methods>
+      </class> <!-- TestScript.Testcase_flipkart -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
